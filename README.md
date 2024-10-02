@@ -27,4 +27,4 @@ Second-year Computer Science student, Software Engineer. Currently a Software En
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 -->
-[website]: [https://fkcodes.com](https://alnaheyan.github.io/Portfolio/)
+[website]: [https://alnaheyan.github.io/Portfolio/]
