@@ -1,7 +1,7 @@
 # Al Naheyan
 
 
-Second-year Computer Science student, Software Engineer. Currently a Software Engineering Intern at Unadat. My passion for solving problems brought me to the Grove School of Engineering at City College of New York and pursue for Software Engineering. During my free time, I enjoy playing video games and travelling.
+Second-year Computer Science student, Software Engineer. Previously  a Software Engineering Intern at Unadat. My passion for solving problems brought me to the Grove School of Engineering at City College of New York and pursue for Software Engineering. During my free time, I enjoy playing video games and travelling.
 
 
 ---
