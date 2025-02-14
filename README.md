@@ -1,4 +1,4 @@
-# al naheyan
+# Al Naheyan
 cs @ccny, i enjoy solving problems, generating ideas an making things
 
 # Socials:
