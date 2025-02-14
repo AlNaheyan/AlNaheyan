@@ -1,5 +1,5 @@
-#  About Me: 
-My name is Al Naheyan, a Sophomore Computer Science student at City College of New York. I've previously been a Software Engineering Intern at Unadat. During my free time, I enjoy playing video games, travelling and volunteering for gardening/food security. 
+# al naheyan
+cs @ccny, i enjoy solving problems, generating ideas an making things
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/al-naheyan/) 
