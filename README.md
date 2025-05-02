@@ -1,5 +1,5 @@
 ## Al Naheyan
-cs @ccny, i enjoy solving problems and making things. feel free to contact me via linkedin or email for inquiries, alnaheyan.nyc@gmail.com
+cs @ccny, i enjoy solving problems and making things. feel free to contact me via linkedin or email, alnaheyan.nyc@gmail.com
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/al-naheyan/) 
