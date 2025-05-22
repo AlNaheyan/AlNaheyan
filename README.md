@@ -1,7 +1,7 @@
 <h1 align="center">hey , i'm al naheyan.</h1>
 <h3 align="center">cs and eco @ccny, i enjoy solving problems and building things. Feel free to connect w/ me for any inquires.</h3>
 
-- 🔭 i’m currently working on [cryo-cli](https://github.com/AlNaheyan/Cryo-cli) and [tracker0](https://github.com/AlNaheyan/tracker0).
+- 🔭 i’m currently working on [acadion](https://github.com/AlNaheyan/ccny_cs_scheduler) and [tracker0](https://github.com/AlNaheyan/tracker0).
 
 - 🌱 i’m currently learning **Rust and Java Springboot.**
 
