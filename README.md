@@ -1,4 +1,4 @@
-<h1 align="center">hey , i'm al naheyan.</h1>
+<h1 align="center">hey , i'm al naheyan</h1>
 <h3 align="center">cs and eco @ccny, i enjoy solving problems and building things. feel free to connect w/ me for any inquires.</h3>
 
 - 🔭 i’m currently working on [acadion](https://github.com/AlNaheyan/ccny_cs_scheduler) and [tracker0](https://github.com/AlNaheyan/tracker0).
@@ -36,6 +36,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 **developer tools:**  
 
