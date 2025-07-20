@@ -1,7 +1,7 @@
 <h1 align="center">hey , i'm al naheyan.</h1>
 <h3 align="center">cs and eco @ccny, i enjoy solving problems and building things. feel free to connect w/ me for any inquires.</h3>
 
-- 🔭 i’m currently a swe intern on [pulp].
+- 🔭 i’m currently a swe intern at pulp
 
 - 🌱 i’m currently learning **Rust and Java Springboot.**
 
