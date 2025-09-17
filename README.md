@@ -43,7 +43,3 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alnaheyan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alnaheyan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alnaheyan&show_icons=true&theme=tokyonight&locale=en" alt="alnaheyan" /></p>
-
