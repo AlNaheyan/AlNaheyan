@@ -1,7 +1,7 @@
 <h1 align="center">hey , i'm al naheyan.</h1>
 <h3 align="center">cs and eco @ccny, i enjoy solving problems and building things. feel free to connect w/ me for any inquires.</h3>
 
--  i’m currently working on [pomly](https://github.com/AlNaheyan/pomly)
+-  i’m currently working on [termchat](https://github.com/AlNaheyan/termchat)
 
 -  how to reach me **alnaheyan.nyc@gmail.com**
 
